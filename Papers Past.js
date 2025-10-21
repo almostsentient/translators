@@ -1,7 +1,7 @@
 {
 	"translatorID": "1b052690-16dd-431d-9828-9dc675eb55f6",
 	"label": "Papers Past",
-	"creator": "Philipp Zumstein, Abe Jellinek, and Gemini",
+	"creator": "Philipp Zumstein, Abe Jellinek, and Jason Murphy",
 	"target": "^https?://(www\\.)?paperspast\\.natlib\\.govt\\.nz/",
 	"minVersion": "5.0",
 	"maxVersion": "",
